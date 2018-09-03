@@ -1,0 +1,20 @@
+Get one type moving downward
+Randomize where they move downwards from
+Randomize angle
+Randomize speed
+If it goes below specified y at any point, subtract city health
+If clicked, add to score
+Randomize which rock is thrown
+Make healthbar dynamic
+Add custom font
+Speed up how many rocks are thrown as time goes down
+ - Progressive difficulty at 60s, 15s
+Add sound on rock click
+Add sound when rock hits city
+Add background music
+Subtract score when city is hit
+Change texture on click
+Change texture when rock hits city
+Remove unused assets
+Remove extra console logs
+Optimize assets
